@@ -30,14 +30,13 @@ The Google Compute Engine and deployment manager API's lets you to create and ma
 		> $ npm start
 
 ## References
-
-	- (https://cloud.google.com/compute/docs/reference/latest/instances)
-	- (https://cloud.google.com/deployment-manager/docs/reference/latest/)
-	- (https://console.cloud.google.com/project)
-	- (https://console.cloud.google.com)
-	- (https://support.google.com/cloud/answer/6293499#enable-billing)
-	- (https://console.cloud.google.com/flows/enableapi?apiid=compute.googleapis.com)
-	- (https://cloud.google.com/deployment-manager/docs/)
-	- (https://developers.google.com/identity/protocols/OAuth2UserAgent)
-	- (https://github.com/googleapis/nodejs-compute)
-	- (https://github.com/google/google-api-nodejs-client)
+- [Compute Engine API - Instances](https://cloud.google.com/compute/docs/reference/latest/instances)
+- [Deployment Manager API](https://cloud.google.com/deployment-manager/docs/reference/latest/)
+- [Google Cloud Console - Projects](https://console.cloud.google.com/project)
+- [Google Cloud Console](https://console.cloud.google.com)
+- [Enable Billing](https://support.google.com/cloud/answer/6293499#enable-billing)
+- [Enable API](https://console.cloud.google.com/flows/enableapi?apiid=compute.googleapis.com)
+- [Deployment Manager Documentation](https://cloud.google.com/deployment-manager/docs/)
+- [OAuth 2 authentication](https://developers.google.com/identity/protocols/OAuth2UserAgent)
+- [Samples - compute](https://github.com/googleapis/nodejs-compute)
+- [Samples - Google API Node Js](https://github.com/google/google-api-nodejs-client)
