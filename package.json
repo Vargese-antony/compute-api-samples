@@ -6,6 +6,11 @@
     "start": "node ./src/app.js"
   },
   "author": "",
+  "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/Vargese-antony/compute-api-samples.git",
+    "type": "git"
+  },
   "dependencies": {
     "fs": "0.0.1-security",
     "googleapis": "^24.0.0",
