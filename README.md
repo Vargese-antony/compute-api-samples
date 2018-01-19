@@ -31,13 +31,13 @@ The Google Compute Engine and deployment manager API's lets you to create and ma
 
 ## References
 
-	- https://cloud.google.com/compute/docs/reference/latest/instances
-	- https://cloud.google.com/deployment-manager/docs/reference/latest/
-	- https://console.cloud.google.com/project
-	- https://console.cloud.google.com
-	- https://support.google.com/cloud/answer/6293499#enable-billing
-	- https://console.cloud.google.com/flows/enableapi?apiid=compute.googleapis.com
-	- https://cloud.google.com/deployment-manager/docs/
-	- https://developers.google.com/identity/protocols/OAuth2UserAgent
-	- https://github.com/googleapis/nodejs-compute
-	- https://github.com/google/google-api-nodejs-client
+	- (https://cloud.google.com/compute/docs/reference/latest/instances)
+	- (https://cloud.google.com/deployment-manager/docs/reference/latest/)
+	- (https://console.cloud.google.com/project)
+	- (https://console.cloud.google.com)
+	- (https://support.google.com/cloud/answer/6293499#enable-billing)
+	- (https://console.cloud.google.com/flows/enableapi?apiid=compute.googleapis.com)
+	- (https://cloud.google.com/deployment-manager/docs/)
+	- (https://developers.google.com/identity/protocols/OAuth2UserAgent)
+	- (https://github.com/googleapis/nodejs-compute)
+	- (https://github.com/google/google-api-nodejs-client)
