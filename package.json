@@ -1,0 +1,19 @@
+{
+  "name": "google-compute-engine-api-samples",
+  "version": "0.0.2",
+  "description": "Google Compute Engine APIs sample applications for Node.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "googleapis": "^24.0.0",
+    "http": "0.0.0",
+    "nconf": "^0.10.0",
+    "opn": "^5.2.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
